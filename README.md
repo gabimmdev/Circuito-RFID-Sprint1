@@ -59,4 +59,4 @@ npx expo start
 
 
 ### 📸 Demonstrações
-👉 [Acessar vídeo]()
+👉 [Acessar vídeo](https://youtu.be/DXhKfDI1pCU)
